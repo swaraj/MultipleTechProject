@@ -1,0 +1,19 @@
+{
+  "name": "npm_prj",
+  "version": "1.0.0",
+  "description": "Test NPM Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Swaraj Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "angular2-text-mask": "^9.0.0",
+    "send": "^0.16.2"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
+  }
+}
